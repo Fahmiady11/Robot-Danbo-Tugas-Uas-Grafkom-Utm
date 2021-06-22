@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1624367979 source:d:\kuliah\smt_4\grafkom\projekbesar\tugas uas\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+
+881786480 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
